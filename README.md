@@ -1,5 +1,5 @@
 # PracticasAgentes
-Prácticas de la asignatura Agentes Inteligentes de la ETSISI, realizadas por @raguirregabiria y @manuelalfredocolladocenteno 
+Prácticas de la asignatura Agentes Inteligentes de la ETSISI, realizadas por @manuelalfredocolladocenteno y @raguirregabiria
 
 
 ## Breve descripción y notas
